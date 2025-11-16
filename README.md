@@ -95,9 +95,9 @@ int main() {
 
 
 ## OUTPUT
-<img width="571" height="448" alt="image" src="https://github.com/user-attachments/assets/43d4b928-e003-4191-8dfd-a640f4c21558" />
+<img width="758" height="523" alt="Screenshot at 2025-11-16 05-52-15" src="https://github.com/user-attachments/assets/5aad1bd6-4df9-4ef5-b459-270ed31e62bb" />
 
-<img width="837" height="614" alt="image" src="https://github.com/user-attachments/assets/db31e782-3ef7-45eb-a3a7-eaa807128b4d" />
+<img width="1208" height="731" alt="Screenshot at 2025-11-16 05-52-28" src="https://github.com/user-attachments/assets/f950c4a1-3de1-443e-b4bf-a23cdb14327c" />
 
 
 
